@@ -1,2 +1,1 @@
-terjadi conflict pada cabang ini
-terjadi conflict pada file ini
+apa ini
