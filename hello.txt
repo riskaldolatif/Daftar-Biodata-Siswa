@@ -1,1 +1,3 @@
+
+
 ini adalah file baru di cabang yang akan terjadi conflict
