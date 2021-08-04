@@ -1,2 +1,2 @@
 cabang baru development2
-ini adalah file baru di cabang development
+ini file baru di cabang development2
