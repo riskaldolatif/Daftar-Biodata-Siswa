@@ -1,1 +1,1 @@
-ini adalah file baru di cabang development
+terjadi conflict pada file ini
